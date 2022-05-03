@@ -1,0 +1,29 @@
+﻿@inherits LayoutComponentBase
+
+<PageTitle>Amsthetic</PageTitle>
+
+<div class="page">
+    <main>
+        <div class="top-row px-4">
+            <div class="col-1">
+                <a href="/" itemprop="url">
+                    <img src="images\amsthetic2.jpg" 
+                         alt="amsthetic"
+                         width="55" 
+                         height="55">
+                </a>
+            </div>
+            <div class="col-11">
+                <a href=""><span class="nav-item">Intro</span></a>
+                <a href="team"><span class="nav-item">Team</span></a>
+                <a href="roadmap"><span class="nav-item">Roadmap</span></a>
+                <a href="collection"><span class="nav-item">Collection</span></a>
+                <button class="btn btn-5 btn-5a icon-wallet"><span>Connect</span></button>
+            </div>
+        </div>
+        <article class="content px-4">
+        <Hero />
+            @Body
+        </article>
+    </main>
+</div>
