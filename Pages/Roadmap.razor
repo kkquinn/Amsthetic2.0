@@ -1,0 +1,26 @@
+@page "/roadmap"
+
+@inherits Fluxor.Blazor.Web.Components.FluxorComponent
+
+@using Fluxor
+
+@inject IState<Amsthetic.Store.CounterState> CounterState
+@inject IDispatcher Dispatcher
+
+<PageTitle>Roadmap | Amsthetic</PageTitle>
+
+<h1>Roadmap</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code
+{
+    protected int currentCount => CounterState.Value.Count;
+
+    protected void IncrementCount()
+    {
+        Dispatcher.Dispatch(new Amsthetic.Store.AddCounter());
+    }
+}

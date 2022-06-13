@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "nsGLoK/1r+LClVPEysnJtBfCYuxZuPkVpVgV+kwZHxxUhprXGmpy1Xv0HOUF5uHI1dxSefze3qD90nwWSxsI5w==",
+  "dgSpecHash": "rXFJ2L2dw17OPM0AUvhR6YO0N81uSAh8ZPa58zAGMk3pLuFGwPrBBCmyB709GMDlaNh7HfEBfOXHzzlXbN90Tg==",
   "success": true,
   "projectFilePath": "C:\\Users\\kssmi\\Desktop\\Projects\\Amsthetic\\Amsthetic.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kssmi\\.nuget\\packages\\fluxor\\5.4.0\\fluxor.5.4.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\fluxor.blazor.web\\5.4.0\\fluxor.blazor.web.5.4.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\fluxor.blazor.web.reduxdevtools\\5.4.0\\fluxor.blazor.web.reduxdevtools.5.4.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.0\\microsoft.aspnetcore.authorization.6.0.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.0\\microsoft.aspnetcore.components.6.0.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.0\\microsoft.aspnetcore.components.analyzers.6.0.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.0\\microsoft.aspnetcore.components.forms.6.0.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.0\\microsoft.aspnetcore.components.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.0\\microsoft.aspnetcore.metadata.6.0.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\microsoft.jsinterop\\6.0.0\\microsoft.jsinterop.6.0.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\system.io.pipelines\\6.0.0\\system.io.pipelines.6.0.0.nupkg.sha512",
+    "C:\\Users\\kssmi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

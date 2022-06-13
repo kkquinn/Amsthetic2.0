@@ -5,7 +5,6 @@ C:\Users\kssmi\Desktop\Projects\Amsthetic\bin\Debug\net6.0\Amsthetic.exe
 C:\Users\kssmi\Desktop\Projects\Amsthetic\bin\Debug\net6.0\Amsthetic.deps.json
 C:\Users\kssmi\Desktop\Projects\Amsthetic\bin\Debug\net6.0\Amsthetic.runtimeconfig.json
 C:\Users\kssmi\Desktop\Projects\Amsthetic\bin\Debug\net6.0\Amsthetic.dll
-C:\Users\kssmi\Desktop\Projects\Amsthetic\bin\Debug\net6.0\ref\Amsthetic.dll
 C:\Users\kssmi\Desktop\Projects\Amsthetic\bin\Debug\net6.0\Amsthetic.pdb
 C:\Users\kssmi\Desktop\Projects\Amsthetic\obj\Debug\net6.0\Amsthetic.csproj.AssemblyReference.cache
 C:\Users\kssmi\Desktop\Projects\Amsthetic\obj\Debug\net6.0\Amsthetic.GeneratedMSBuildEditorConfig.editorconfig
@@ -28,3 +27,9 @@ C:\Users\kssmi\Desktop\Projects\Amsthetic\obj\Debug\net6.0\Amsthetic.genruntimec
 C:\Users\kssmi\Desktop\Projects\Amsthetic\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
 C:\Users\kssmi\Desktop\Projects\Amsthetic\obj\Debug\net6.0\scopedcss\Pages\Team.razor.rz.scp.css
 C:\Users\kssmi\Desktop\Projects\Amsthetic\obj\Debug\net6.0\scopedcss\Pages\Roadmap.razor.rz.scp.css
+C:\Users\kssmi\Desktop\Projects\Amsthetic\obj\Debug\net6.0\refint\Amsthetic.dll
+C:\Users\kssmi\Desktop\Projects\Amsthetic\bin\Debug\net6.0\Fluxor.dll
+C:\Users\kssmi\Desktop\Projects\Amsthetic\bin\Debug\net6.0\Fluxor.Blazor.Web.dll
+C:\Users\kssmi\Desktop\Projects\Amsthetic\bin\Debug\net6.0\Fluxor.Blazor.Web.ReduxDevTools.dll
+C:\Users\kssmi\Desktop\Projects\Amsthetic\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kssmi\Desktop\Projects\Amsthetic\obj\Debug\net6.0\Amsthetic.csproj.CopyComplete

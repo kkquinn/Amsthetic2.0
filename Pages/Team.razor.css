@@ -1,0 +1,45 @@
+.img-responsive {
+    width: 100%;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.page-width {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 40px;
+}
+
+.auto {
+    margin: auto;
+}
+
+.grid {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 0 -30px;
+}
+
+.title {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #000000;
+    font-size: 35px;
+    padding-bottom: 8px;
+}
+
+.subtitle {
+    text-transform: uppercase;
+    color: #000000;
+    letter-spacing: .2em;
+    font-size: 17px;
+}
+
+.bio {
+    color: #000000;
+    font-size: 15px;
+}

@@ -1,6 +1,5 @@
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
 using Amsthetic.Data;
+using Fluxor;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +7,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
+builder.Services.AddFluxor(config =>
+{
+    config
+    .ScanAssemblies(typeof(Program).Assembly)
+    .UseReduxDevTools();
+});
 
 var app = builder.Build();
 
@@ -16,7 +21,6 @@ if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
 }
-
 
 app.UseStaticFiles();
 
